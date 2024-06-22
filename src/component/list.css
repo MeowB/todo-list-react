@@ -1,0 +1,22 @@
+ul {
+	padding: 0;
+}
+
+ul li {
+	text-align: left;
+	list-style: none;
+	display: flex;
+	align-items: center;
+	margin: 15px 0;
+	padding: 10px 0;
+	border-bottom: 1px solid red;
+}
+
+ul li button {
+	margin-left: auto;
+}
+
+ul li button:hover {
+	background-color: red;
+	border: 1px solid transparent;
+}
