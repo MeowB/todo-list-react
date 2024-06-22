@@ -1,4 +1,4 @@
-[LIVE SITE URL](https://todo-list-react-five-nu.vercel.app/
+[LIVE SITE URL](https://todo-list-react-five-nu.vercel.app/)
 
 # React + Vite
 
